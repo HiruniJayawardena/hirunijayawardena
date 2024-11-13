@@ -1,4 +1,4 @@
-<img align="center" alt="banner" width="100%" src="https://www.digitalsolutionservices.com/img/services/web%20development.gif">
+
 <h1 align="center">Hi 👋, I'm Hiruni Jayawardena</h1>
 <h3 align="center">A passionate UI UX Developer in Sri Lanka</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif" style="border-radius: 50;">
